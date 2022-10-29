@@ -23,11 +23,11 @@ We are a technology company first, but with a major focus on consumer well-being
 
 
 ## technologies-used
-* HTML5
+  * HTML5
 
-*CSS
+  * CSS
 
-*JAVASCRIPT
+  * JAVASCRIPT
  
 
 
