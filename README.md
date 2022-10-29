@@ -19,7 +19,15 @@ We are a technology company first, but with a major focus on consumer well-being
 
 * section-pricing
 
-* section-call to action
+* section-call to action    
+
+
+## technologies-used
+* HTML5
+
+*CSS
+
+*JAVASCRIPT
  
 
 
