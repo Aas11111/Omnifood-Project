@@ -40,8 +40,7 @@ https://aas11111.github.io/Omnifood-Project/
   
   ----------
  
- ##### copyright
- Built by ME Copyright © but the credit to the original author, Jonas Schmedtmann
+
 
 
 
